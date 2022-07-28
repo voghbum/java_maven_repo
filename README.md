@@ -4,6 +4,7 @@ java maven repository
 ## POM XML
 
 ### REPO
+
 ```xml
 <repositories>
   <repository>
@@ -15,6 +16,7 @@ java maven repository
 
 ## DEPENDENCIES
 ### DATA
+
 ```xml
 <dependency>
 	<groupId>com.voghbum</groupId>

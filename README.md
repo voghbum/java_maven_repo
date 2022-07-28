@@ -12,7 +12,7 @@ java maven repository
 		<url>https://raw.github.com/voghbum/java_maven_repo/main</url>
 	</repository>
 </repositories>
-.```
+```
 
 ## DEPENDENCIES
 ### DATA
@@ -23,5 +23,5 @@ java maven repository
 	<artifactId>com-voghbum-util-data</artifactId>
 	<version>4.0.1</version>
 </dependency>
-.```
+```
   

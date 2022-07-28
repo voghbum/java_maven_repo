@@ -14,7 +14,7 @@ java maven repository
 </repositories>
 ```
 
-## DEPENDENCIES
+## LIBS
 ### DATA
 
 ```xml

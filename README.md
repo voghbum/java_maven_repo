@@ -8,7 +8,7 @@ java maven repository
 ```xml
 <repositories>
  	<repository>
-		<id>java-maven-repo</id>
+		<id>write something here</id>
 		<url>https://raw.github.com/voghbum/java_maven_repo/main</url>
 	</repository>
 </repositories>

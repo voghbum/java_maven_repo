@@ -9,7 +9,7 @@ java maven repository
 <repositories>
  	<repository>
 		<id>write something here</id>
-		<url>https://raw.github.com/voghbum/java_maven_repo/main</url>
+		<url>https://raw.github.com/voghbum/java_maven_repo/master</url>
 	</repository>
 </repositories>
 ```
